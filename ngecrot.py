@@ -18,7 +18,7 @@ print("\033[1;33;40m If you have any issue post a thread on https://github.com/X
 
 os.system("clear")
 print("\033[1;32;40m ==> Code by Xalbador <==  \n")
-print("\033[1;32;40m ==> PENGGUNAAN KETIK Python-UDP-Flood atau <==  \n")
+print("\033[1;32;40m ==> PENGGUNAAN KETIK Python-UDP-Flood <==  \n")
 print("\033[1;32;40m ==> CURI SCRIPT AWAS KAU KONTOL <==  \n")
 print("\033[1;32;40m ==> MAU RENAME?REMAKE? PM!! <==  \n")
 
